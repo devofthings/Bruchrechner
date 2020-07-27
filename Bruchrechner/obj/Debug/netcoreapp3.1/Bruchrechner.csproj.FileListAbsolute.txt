@@ -1,0 +1,12 @@
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/bin/Debug/netcoreapp3.1/Bruchrechner.deps.json
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/bin/Debug/netcoreapp3.1/Bruchrechner.runtimeconfig.json
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/bin/Debug/netcoreapp3.1/Bruchrechner.runtimeconfig.dev.json
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/bin/Debug/netcoreapp3.1/Bruchrechner.dll
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/bin/Debug/netcoreapp3.1/Bruchrechner.pdb
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.csprojAssemblyReference.cache
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.AssemblyInfoInputs.cache
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.AssemblyInfo.cs
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.csproj.CoreCompileInputs.cache
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.dll
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.pdb
+/Users/crimson/Documents/workspace/hhek/AWE/Bruchrechner/Bruchrechner/obj/Debug/netcoreapp3.1/Bruchrechner.genruntimeconfig.cache
